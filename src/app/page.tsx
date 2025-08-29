@@ -8,8 +8,11 @@ export default function Home() {
   const router = useRouter();
 
   const models = [
-    { name: "Hentai", slug: "aer" },
+    { name: "Taj Mahal", slug: "mosque_masjid_3d_model" },
+    { name: "Elephanta Caves", slug: "elephanta_caves_mumbai_india" },
+    { name: "Ellora Caves", slug: "ellora_caves__india" },
     { name: "Jaya Karan", slug: "JK" },
+
   ];
 
   return (
